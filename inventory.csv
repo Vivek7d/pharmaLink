@@ -1,0 +1,11 @@
+DrugName,Location,Address,City,Supplier,Quantity,UnitPrice,ExpirationDate,ReorderLevel
+Aspirin,Warehouse A,123 Pharma Road,Mumbai,PharmaCorp,500,0.10,2025-06-30,100
+Ibuprofen,Warehouse B,456 Health Lane,Bangalore,MediSupply,200,0.15,2024-12-15,50
+Paracetamol,Warehouse C,789 Wellness Street,Delhi,HealthCo,300,0.05,2025-03-10,75
+Amoxicillin,Warehouse A,123 Pharma Road,Mumbai,PharmaCorp,150,0.20,2024-11-20,30
+Cetirizine,Warehouse B,456 Health Lane,Bangalore,MediSupply,250,0.12,2024-10-25,60
+Metformin,Warehouse C,789 Wellness Street,Delhi,HealthCo,400,0.25,2025-01-05,100
+Omeprazole,Warehouse A,123 Pharma Road,Mumbai,PharmaCorp,100,0.30,2024-08-15,20
+Loratadine,Warehouse B,456 Health Lane,Bangalore,MediSupply,350,0.18,2025-02-28,80
+Simvastatin,Warehouse C,789 Wellness Street,Delhi,HealthCo,180,0.22,2024-09-10,40
+Hydrochlorothiazide,Warehouse A,123 Pharma Road,Mumbai,PharmaCorp,250,0.17,2024-12-01,60
