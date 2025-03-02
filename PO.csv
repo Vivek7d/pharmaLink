@@ -1,0 +1,6 @@
+OrderID,OrderDate,VendorID,VendorName,DrugName,DrugID,Quantity,UnitPrice,TotalCost,OrderStatus,DeliveryDate,ContractID,ContractDetails,Remarks
+PO001,2024-08-01,V001,MedSupply Inc.,Aspirin,DR001,100,0.50,50.00,Completed,2024-08-05,CT001,Annual supply contract for pain relievers,Delivered on time
+PO002,2024-08-02,V002,HealthPharma Ltd.,Ibuprofen,DR002,200,0.75,150.00,Pending,2024-08-10,CT002,Monthly purchase agreement for anti-inflammatories,Expected delay
+PO003,2024-08-03,V003,PharmaCare Co.,Amoxicillin,DR003,50,1.20,60.00,Completed,2024-08-07,CT003,Quarterly contract for antibiotics,Delivered early
+PO004,2024-08-04,V004,MedTech Supplies,Insulin,DR004,30,2.50,75.00,Shipped,2024-08-12,CT004,Yearly supply for diabetes management,Tracking number provided
+PO005,2024-08-05,V001,MedSupply Inc.,Paracetamol,DR005,150,0.40,60.00,Completed,2024-08-09,CT001,Annual supply contract for pain relievers,Delivered as scheduled
